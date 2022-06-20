@@ -45,6 +45,8 @@ executed in various devices including Android TV, Apple TV, Roku, Fire Tv... Als
    <img height="40" src="https://1000logos.net/wp-content/uploads/2017/08/Docker-logo.jpg" style="max-width: 100%;">&emsp;
    <img height="40" src="https://www.entrofi.net/wp-content/uploads/2020/01/rest-assured-logo.png" style="max-width: 100%;">&emsp;
    <img height="40" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/q1cwqhahz7jbtfzalznd" style="max-width: 100%;">&emsp;
+   <img height="40" src="[https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/q1cwqhahz7jbtfzalznd](https://mma.prnewswire.com/media/776624/headspin_logo_orange_Logo.jpg?p=twitter)" style="max-width: 100%;">&emsp;
+   <img height="40" src="https://www.browserstack.com/images/layout/browserstack-logo-600x315.png" style="max-width: 100%;">&emsp;
   </div>
 
 
