@@ -9,7 +9,7 @@
 
 
 <b>SDET 2 (Discovery-India)	</b>                           
-&emsp;&emsp;•	Leading the automaBon of ATVE verBcal from India development centre with the team of 18 members.  
+&emsp;&emsp;•	Leading the automation of ATVE vertical from India development centre with the team of 18 members.  
 &emsp;&emsp;•	Define the roadmap for the release,Prepare the test plan and Assigning them and get the results from the
 team , consolidated and present with the management in a weekly manner. <br>
 &emsp;&emsp;•	Designed and maintained an automaBon framework using Suitest to automate OTT related test cases to be
